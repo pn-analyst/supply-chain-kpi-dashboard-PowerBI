@@ -1,2 +1,76 @@
-# Supply-chain-kpi-dashboard
-Power BI dashboard analyzing supply chain performance using KPIs such as OTIF, lead time, carrier performance, and SKU demand.
+# 📊 Supply Chain KPI Dashboard (Power BI)
+
+This project delivers a clean, interactive Power BI dashboard that visualizes key supply chain performance metrics such as OTIF, lead time, carrier performance, SKU demand, and plant-to-customer flow.
+
+The dashboard is built using a real-world logistics dataset and follows best practices in data modeling, DAX, and visual design.
+
+---
+
+## ✅ Key KPIs
+
+- **OTIF (On-Time In-Full)**
+- **Average Lead Time**
+- **Total Units Shipped**
+- **Total Weight Shipped**
+- **Carrier Performance Score**
+- **Customer Order Volume**
+- **SKU Demand Distribution**
+
+---
+
+## ✅ Dashboard Preview
+
+*(Add screenshot here once dashboard is complete)*  
+Place the image in:  
+`/images/dashboard_screenshot.png`
+
+---
+
+## ✅ Files in This Repository
+
+| Folder | Description |
+|--------|-------------|
+| `/data` | Dataset used for the dashboard |
+| `/pbix` | Power BI file (`.pbix`) |
+| `/images` | Dashboard screenshots |
+| `README.md` | Project documentation |
+
+---
+
+## ✅ Dataset
+
+The dataset contains real shipment records including:
+
+- Customers  
+- Products (SKUs)  
+- Carriers  
+- Plants  
+- Origin & destination ports  
+- Units shipped  
+- Weight  
+- Lead time  
+- Delivery status  
+
+---
+
+## ✅ How to Use
+
+1. Download the `.pbix` file from `/pbix`
+2. Open it in Power BI Desktop
+3. Explore the dashboard using slicers and filters
+
+---
+
+## ✅ Future Enhancements
+
+- Add forecasting visuals  
+- Add cost-per-unit KPIs  
+- Add anomaly detection for late shipments  
+
+---
+
+## ✅ Author
+
+**Pubudu Narayana**  
+Supply Chain & Data Analytics  
+GitHub: https://github.com/pn-analyst
