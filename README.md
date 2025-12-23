@@ -20,10 +20,21 @@ The dashboard is built using a real-world logistics dataset and follows best pra
 
 ## ✅ Dashboard Preview
 
-https://github.com/pn-analyst/supply-chain-kpi-dashboard/blob/main/images/Supply-chain-kpi-dashboard.JPG
+![Supply Chain KPI Dashboard](images/Supply-chain-kpi-dashboard.JPG)
 
+---
 
-## 📂 Download the Power BI File Click below to download the full Power BI report: 👉 [SupplyChain_KPI_Dashboard.pbix](pbix/SupplyChain_KPI_Dashboard.pbix)
+## 📂 Download the Power BI File
+
+Click below to download the full Power BI report:
+
+👉 [SupplyChain_KPI_Dashboard.pbix](pbix/SupplyChain_KPI_Dashboard.pbix)
+
+## ✅ How to Use
+
+1. Download the `.pbix` file from `/pbix`
+2. Open it in Power BI Desktop
+3. Explore the dashboard using slicers and filters
 
 ---
 
@@ -51,14 +62,6 @@ The dataset contains real shipment records including:
 - Weight  
 - Lead time  
 - Delivery status  
-
----
-
-## ✅ How to Use
-
-1. Download the `.pbix` file from `/pbix`
-2. Open it in Power BI Desktop
-3. Explore the dashboard using slicers and filters
 
 ---
 
