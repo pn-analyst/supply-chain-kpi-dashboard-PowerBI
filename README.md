@@ -20,9 +20,10 @@ The dashboard is built using a real-world logistics dataset and follows best pra
 
 ## ✅ Dashboard Preview
 
-*(Add screenshot here once dashboard is complete)*  
-Place the image in:  
-`/images/dashboard_screenshot.png`
+https://github.com/pn-analyst/supply-chain-kpi-dashboard/blob/main/images/Supply-chain-kpi-dashboard.JPG
+
+
+## 📂 Download the Power BI File Click below to download the full Power BI report: 👉 [SupplyChain_KPI_Dashboard.pbix](pbix/SupplyChain_KPI_Dashboard.pbix)
 
 ---
 
